@@ -1,0 +1,12 @@
+[ - Fun With Rotations - Strafe jumps on rotating objects - ]
+
+Objective: Finish the 11 jumps to beat the map.
+There are 5 secrets (2 obvious, 3 hidden)
+There are two teams; Rotatoes and Hardcore Rotatoes.
+
+This is a sequel to fun_with_ladders. Due to complaints about my last map not being fun enough i made this one even worse.
+Have fun
+
+
+Credits to RSnake; Used soundfiles from fm fun2 / fun3 and a model from the curse!
+And thanks to everybody who tested the map :)!

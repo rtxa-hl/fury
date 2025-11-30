@@ -1,0 +1,52 @@
+A strafemap for beginners to train the first steps of advanced movement.
+If you're good enough to finish this map, or maybe just want to try a different
+one you might wanna try out my other strafemaps called strafe_easy and strafe_medium.
+The bonusjump is taken of my map STROLF.
+
+10 Jumps + 1 Bonus
+
+Have fun, good luck!!
+
+
+Thanks to all people who played and liked my other maps and
+therefore inspired me to create this one!
+
+Special thanks to -->!!__MIKE__!!<--, Sslady, Ariin, Nerdlike, Mccarf, Wubwub and Leandros for playtesting.
+
+
+Visit:
+http://fm.team-fortress.co.uk/
+http://www.euroskillz.eu/
+
+
+Map by N.O.L.F. (04.20.2010)
+
+Explanation:
+
+1. Strafing
+
+The movements are usually as follows:
+
+   1. The player presses the forward key, preparing to make the first jump.
+   2. Still keeping the forward key pressed, the player jumps, adding
+      either the move left or the move right key 
+      (which is where the strafe in strafe-jumping comes from). The strafe
+      and jump keys must be pressed at the same time.
+   3. To gain maximum speed, the player must now move the mouse smoothly to
+      around a 45 degree (i.e., turn) in the direction
+      of the strafe, while still holding down the two aforementioned keys.
+      This part is called airstrafing, which is responsible for increase in speed during the jump.
+   4. For successive strafejumps, the player immediately jumps again on landing,
+      swapping the direction of strafe as well as mouse motion.
+
+2. Bunny hopping
+
+Bunny hopping, or bunny jumping, is a term used in video games to
+describe the basic movement technique in which a player jumps
+repeatedly instead of running in order to move faster and/or to avoid enemy fire.
+
+3. Ladders
+
+To achieve higher height on ladders face the wall left or right to the ladder
+and look completly up or down. Now hold down the strafe key facing the ladder
+and additionally forward(if looking up), or backward(if looking down).

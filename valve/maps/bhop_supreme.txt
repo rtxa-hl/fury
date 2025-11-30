@@ -1,0 +1,32 @@
+------------------------
+bhop_supreme
+by Pizza Supreme
+------------------------
+
+A very hard bhop/climb map to test your skills.
+
+Standard Team: 
+- Has checkpoints to make the map easier.
+Hard Team:
+- No checkpoints, all jumps must be done first try.
+Long Jumper Team: 
+- Gain access to the long jump bonus area only.
+
+All long jumps up to 294 have been done as civilian at 100 fps.
+Long jumps are not meant to be prehopped to gain speed. They are
+meant to be done in one consecutive jump with a prestrafe.
+
+If you can jump 290 or more, very nice!
+
+Greets:
+Beginner.
+rSnake
+D12Eminem989
+Super Strafers
+
+Music:
+High Contrast - Kiss Kiss Bang Bang
+
+------------------------
+Released on 06/09/2012
+------------------------ 

@@ -1,0 +1,96 @@
+===================================================================
+TORQUE								v1.0
+===================================================================
+INFORMATION
+Title		Torque
+Files		Torque.bsp, Torque.txt
+Author		[DRS]Yak_Fighter
+Date 		18 June 2000	
+Email Address	YakFighter@aol.com
+		Yak_Fighter11@hotmail.com
+URL		Yak_Fighter.tripod.com/yfrb/yffnews.html
+
+===================================================================
+PLAY INFORMATION
+Single Player	no, but you can walk around
+Deathmatch	yes
+Teamplay		yes
+New Wads	no
+New Sounds	no
+New Models	no
+CD Track		none
+Suggested Players	2-8
+# Player Starts	10
+
+STORY
+		After Gordon defeated Nihilanth, the door for colonization of Xen 
+	was thrown open.  Earth soldiers used the teleportation technology gained from 
+	the Black Mesa Research Facility to warp into Xen and secure sections of it. 
+	Bases were built in the conquered territory, but they were under the constant
+	threat of counter-attack by the native Xen.  
+		You were sent to a communications outpost near the front lines, 
+	along with a large group of civilian and military workers.  As the fighting raged
+	on, the outpost grew increasingly closer to the advancing Xen army.  After 
+	heavy fighting, the Xen army cut off the outpost from any ground resupply, and 
+	any ships coming in were destroyed.  The outpost was too difficult for the Xen 
+	to take, so instead they were going to starve the humans out.  
+		Once the base was cut off, supplies began to run low.  A few of the
+	soldiers stole the only way out, the cargo ship, and escaped, leaving the 
+	rest, including you, to die.  As the supplies dwindled, fighting soon erupted 
+	between the humans.
+		The Earth forces soon began a counter-attack of their own, and tried
+	to relieve the outpost and save those left.  But as the battle between Earth and 
+	Xen raged around them, the survivors in the outpost continued their slaughter...
+	
+DESCRIPTION
+		This is a smallish map that is good for 2-8 players.  Any more will 
+	cause the map to degenerate into a giant pistol/crowbar fight on the ground level.
+	This map is mainly a bunch of interconnected halls and stairways surrounding a 
+	large open area.  The r_speeds never go above 450, and they only reach 450 in 
+	only two places.  There is a large amount of weaponry spread out throughout the
+	level, but the ammo is placed to force people to move around.  It is almost impossible
+	to camp out anywhere.
+		I didn't include all the weapons, since I didn't think they would fit.  
+	Snarks, the HornetHand, and the Egon were not included, and there are only one
+	each of the RPG, the Gauss, and the Crossbow.      
+
+CREDITS
+	[DRS]Orpheus, [DRS]Misery, [DRS]DoomDog, [DRS]Zeddicus and the rest of 
+	the [DRS]clan ( http://drs.purespace.de/main.htm )
+	The regulars at PrefabLand ( www.nin64.com/prefabland/ )
+	Department of Engineering ( doe.lowlife.com/halflife )
+	Wavelength ( www.contaminated.net/wavelength/ )
+                HLERC ( http://halflife.gamedesign.net/ )
+                Valve Software
+	Id Software
+
+===================================================================
+ADDITIONAL INFO
+		This is my first released map, so be afraid >:)  I've been mapping 
+	since I got Half-Life in December 1998.  I've made a bunch of maps previously 
+	that all failed because of the usual newbie shortcomings.  Since I didn't want to 
+	release a substandard map, I never released them, which is a good thing.  Don't
+	worry though, I've made every mistake in the book and have finally made a map 
+	that does not have any of those early errors.  So enjoy!
+		Please email any comments, suggestions, rants, or complaints to me at
+	YakFighter@aol.com or Yak_Fighter11@hotmail.com.  I enjoy reading all of it!
+
+===================================================================
+PREVIOUS WORKS
+
+I have made about 40 prefabs that can be found at most major prefab sites:
+www.nin64.com/prefabland/			PrefabLand
+prefabs.gamedesign.net/			HL Prefabs
+www.planethalflife.com/prefablab/		Prefab Lab
+Yak_Fighter.tripod.com/yfrb/yffnews.html		My Website
+www.halflifefusion.com/laforge/			La Forge (French)
+
+===================================================================
+COPYRIGHT INFORMATION
+
+This map MAY NOT be sold for money without my prior consent
+This .txt should be distributed with the map at all times
+This map MAY NOT be used as a base or re-released without my prior consent
+If this map is part of a commercial product, notify me before it is released
+ 
+

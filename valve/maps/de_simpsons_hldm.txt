@@ -1,0 +1,15 @@
+de_simpsons_hldm
+
+map by soup
+orginal readme included in zip
+
+this is the same map made by soup with just the cs entities removed
+and weapons ammo and spawns added for dm gameplay. the map rocks 
+too bad soup never made a dm version :( . 
+
+only real problem is that you can get into areas you wouldnt be
+able too if you were playing cs. if you go into these areas you
+will have no way to get out. this is mainly the area in back of the house 
+and the side on the other side of the bus.
+
+

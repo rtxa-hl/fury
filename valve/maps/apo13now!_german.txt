@@ -1,0 +1,105 @@
+================================================================
+Name                    : Tension - Apocalypse Now!!! Edition
+Version                 : 2.0
+Erschienen am...        : 23.Januar 2001 
+Dateiname               : apo13now!.bsp
+
+Autor                   : Florian 'Apocalypso' Halbritter : apo@planethalflife.com
+                          
+Web Page                : http://www.planethalflife.com/apo
+                          
+
+Kurzbeschreibung        : Half-Life Deathmatch Karte, basierend auf der Orignal-Version APOHLDM13.bsp
+
+Andere Maps vom selben Entwickler:
+                          APOHLDM1 - Rage Central 
+                          APOHLDM2 - The Epsilon Base	
+                          APOHLDM3 - No place to hide
+                          APOHLDM4 - Face your Fate
+                          APOHLDM5 - En Garde
+                          APOHLDM6 - Riposte
+                          APOHLDM7 - Touche 
+                          APOHLDM8 - The Alpha Complex
+                          APOHLDM9 - Diabolic
+                          APOHLDM10 - Temple of Stars
+                          APOHLDM11 - Towers of Orion
+                          APOHLDM12 - Midnight Madness
+                          APOHLDM13 - Tension (Original-Version)
+                          AS_GHETTO - Escape from da Ghetto (Counter-Strike)
+                          AS_PALACE - The Palace (Counter-Strike)
+                          +a lot of maps for several mods
+
+================================================================
+--- Spielinformationen ---
+Spiel                   : Half Life
+Level-Name              : Tension - Apocalypse Now!!!
+Einzelspieler           : Nein
+Kooperativ              : Nein
+Deathmatch              : Ja
+Neue Sounds             : Nein
+Neue Graphiken          : Nein
+Bekannte Fehler         : Keine
+                          
+
+--- Designinformationen ---
+Benutzter Leveleditor   : WorldCraft 2.1
+Konstruktionsdauer      : ca. 1 Wochen (ausgehend von APOHLDM13)
+
+
+
+Installation
+------------
+
+Entpacken Sie die Datei "apo13now!.bsp" in Ihr "...\sierra\halflife\valve\maps"-Verzeichnis
+Entpacken Sie die Datei "phl.wad" in ihr "...\sierra\halflife\valve\..."-Verzeichnis
+
+
+
+Einige Tips...
+--------------
+
+(1) Es gibt zwei verschiedene Möglichkeiten ohne zu sterben an den Rocketlauncher zu ge-
+    langen. Der erste Weg ist äußerst simpel: Man sollte einfach darauf achten zunächst 
+    unbeschädigt auf die Platform, auf der der RPG liegt, herabzuspringen und anschließend 
+    so schnell es geht durch den ätzenden Schleim zur Leiter zu laufen (zusätzliche Sicher-
+    heit gewährt hier ein wenig Rüstung...). Der zweite Weg ist ein wenig kniffliger, aber
+    trotzdem noch sehr einfach: Sammelt man nämlich zunächst das Weitsprungmodul auf, kann 
+    man nahezu unbeschadet von der Platform bis zur Leiter gelangen.      
+(2) Die Hornetgun ist in dieser Karte eine äußerst effektive Waffe. Man sollte sich jedoch
+    vor Snipern in Acht nehmen, wenn man sie aufsammeln will!
+(3) bezieht sich auf (2): Versuch Dich selbst als hinterlistiger Sniper, der die armen 
+    Bastarde hochnimmt, die die Hornetgun aufsammeln :)
+(4) Obwohl die Laserkanone im letzten HalfLife-Patch deutlich geschwächt wurde, ist sie
+    dennoch noch immer sehr gut zu gebrauchen. Hinzu kommt, dass sie (in dieser Map) auch
+    noch leicht zu bekommen ist. Also...
+(5) Haltet Eure Ohren offen! Oft geben Euch Geräusche Auskunft darüber, wo sich Eure Gegner 
+    gerade befinden... (z.B. läuft er gerade über Metall- oder über Steinboden?)
+
+
+Was ist in der neuen Version anders?
+---------------------------------------
+- viele kleine Gameplay-Verbesserung (z.B. habe ich viele Stellen, an denen man leicht hängen bleiben konnte, verbessert.)
+- einige neue Gänge um die Connectivity zu verbessern
+- die Gauss Gun liegt nun in einem der neuen Räume
+- fast unmerkliche Veränderungen hinsichtlich des Lichts in der Map
+- ausgebessert: kleiner Texture-Fehler
+- der Text der angezeigt wird wenn man diesen einen Knopf (ja genau den!) drückt, wurde an die neue Version angepasst
+- 2 PlanetHalfLife Logos wurden integriert
+- Readme-Datein upgedated
+
+
+Mit besonderem Dank an...
+-------------------------
+
+Gustavo
+[DRS]Orpheus
+Panic
+TTJ
+
+
+
+Copyright-Rechte 
+----------------
+
+Die Urheberrechte an allen Dateien, die in diesem Archiv (apo13now!.zip) enthalten sind,
+liegen bei PlanetHalfLife, GameSpy und ihren Partnern.

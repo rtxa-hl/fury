@@ -1,0 +1,57 @@
+Half-Life Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: booberville
+Filename	: booberville.bsp
+Author		: -MSI-Fappy Faperton AKA SilentRunner007
+Author Email	: silentrunner007@gmail.com
+date		: Feb. 22,2005
+------Credits and Thanks---------------------------------------------
+Locknut for Venice and st louis wads
+CZ mod team for czcs_italy wad
+? for vangede wad
+Proctor for minivan prefab
+BladeRunner for vipers prefab
+Mighty Pete for Velcor sky
+
+
+
+------Additional Info, Tips, and Notes-------------------------------
+this is the same map as MSI which was made for my clan.
+This modified version was made for my friend Boobz using his suggestions
+for item placement and features a couple of bikini bottom deathmatch
+pics(the name of his server).
+
+
+------Play Information-----------------------------------------------
+
+Deathmatch	: yes
+Single Player	: no
+How Many Players: 6+
+
+------Construction---------------------------------------------------
+
+Base		: built from scratch
+Editor(s) used	: hammer 3.5beta , with zoner's tools
+Compile Machine	: pentiumIII 1.0 ghz, 256k ram
+Compile time	: about 13 minutes 
+Playtest time	: didnt keep track
+
+
+
+------Copyright-Permissions------------------------------------------
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name msi.bsp and is supplied in a zip file called 
+msi_map.zip.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+

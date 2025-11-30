@@ -1,0 +1,1 @@
+// There are no additional resources required by that map.

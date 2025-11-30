@@ -1,0 +1,17 @@
+============================================
+Map by: NYRONIC
+============================================
+
+Thanks to all the people who helped test it.
+
+YES the map is possible as HW.
+
+Also, use fps_max to change the blur. Higher
+FPS will result in less blur, and lower FPS
+will result in more blur.
+
+Have fun.
+
+============================================
+Map by: NYRONIC
+============================================

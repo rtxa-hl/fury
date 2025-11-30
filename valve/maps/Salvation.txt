@@ -1,0 +1,31 @@
+Can I get an AMEN?!
+
+Author: TheReverend
+Map Name: Salvation 
+Compile Machine: 266mhz PII STB BlackMagic Voodoo2 64mb ram 
+Compile Time: 8hrs.
+Compiling Program(s): Worldcraft 2.0-Q2BeaVer(beta)
+Date: 3-14-99
+Players: 2-8
+Map Type: Deathmatch only
+Map Size: small
+Denomination: Christian of course
+Files Included: Salvation.bsp Salvation.txt
+Previous Maps: Redemption
+E-Mail: Thereverend@worlmailer.com("T" has to be capital)
+
+Comments: The frag pipe has a couple of "sweet" spots and if you want you can stand there all day if you like... 
+or take your medicine. The aquarium room was built before I realized that you can`t put monsters in deathmatch levels and I have no idea
+why there is no noise when your walking through the water; for some reason it has to be about knee high to make sloshing noises(????). 
+For quicker access to the doors and elevators I made them touch only(not use). If you for any reason you should wish to use any
+idea or any part of this creation YOU MUST HAVE PERMISSION!!! Also please e-mail if you`ve any questions or comments regarding this map or any
+future or past endeavors. Anyone wishing to possible work on a map pak should also contact me at the appropiate address(serious inquiries only please).
+
+
+
+Special Thanks to Satanas for his help testing this map.
+
+ATTN-REVIEWER: Please include in the review the location of the bug gun(elevator shaft B) , the illusionary wall in the "window room", and the secret area triggered by the computer for those not using
+decals.
+   
+

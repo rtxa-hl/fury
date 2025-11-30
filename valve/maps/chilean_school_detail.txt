@@ -1,0 +1,72 @@
+
+//----------------------------------------------------------------------
+////-------pasto y bmt.wad----------
+08dirt				detail/-0out_dirt2_scary	1.0	1.0
+grassfloor			detail/argrass			5.0	5.0
+grassfloor2			detail/argrass			5.0	5.0
+
+////-------half life texturas------
+///-0tnnl_crt1			detail/arstucco			1.0	1.0
+fifties_wall13		detail/fifties_wall13		1.0	1.0
+fifties_wall13c		detail/fifties_wall13c		1.0	1.0
+crete3_wall01b		detail/arstucco				4.0	4.0
+C2A4_FLR1			detail/arstucco				4.0	4.0
+C2A4_FLR1B			detail/arstucco				4.0	4.0
+FIFTIES_FLR5			detail/arstucco				4.0	4.0
+tnnl_flr4c			detail/tnnl_flr4c			1.0	1.0
+-2fifties_c			detail/fifties_c			1.0	1.0
+c3a2b_reac			detail/arstucco				4.0	4.0
+c1a3wall07			detail/c1a3wall07			1.0	2.0
+c1a3wall06			detail/arstucco				3.0	3.0
+GENERIC60			detail/arstucco				1.0	1.0
+fifties_dr6a2		detail/fifties_dr6a2		1.0	1.0
+fifties_dr5d		detail/fifties_dr5d			1.0	1.0
+out_snd2c			detail/out_snd2c			1.0	1.0
+crete3_wall01		detail/crete3_wall01		1.0	1.0
+
+LAB1_FLR8			detail/-0out_dirt2_scary	1.0	1.0
+fifties_dr1			detail/fifties_dr1			1.0	1.0
+lab1_door7			detail/c1a0b_dr4a			1.0	1.0	
+fifties_wall14t		detail/fifties_wall14t		3.0	3.0
+FIFTIES_DSK5B		detail/arstucco				1.0	1.0
+generic106b			detail/generic87c			1.0	1.0
+duct_flr01a			detail/duct_flr01a			1.0	1.0
+freezerc2			detail/freezer_pan2			2.5	2.5
+fifties_flr03		detail/fifties_flr03		1.0	1.0
++0medkit			detail/+0medkit    			1.0 1.0
++0recharge			detail/+0recharge    		1.0 1.0
++amedkit			detail/+amedkit    			1.0 1.0
++arecharge			detail/+arecharge     		1.0 1.0
+{fence			detail/arbrick				6.0	6.0
+{fence3			detail/arbrick				6.0	6.0
+{RAIL1C			detail/arbrick				6.0	6.0
+LAB1_FLR7B		detail/arstucco					5.0	5.0
+FIFTIES_DR7		detail/arstucco					5.0	5.0
+-4out_dirt2		detail/-0out_dirt2_scary		1.0	1.0
+wet_wall05		detail/wet_wall05		0.5	0.5
+trrm_wood		detail/trrm_wood		1.0	0.75
+trrm_wood2		detail/trrm_wood		1.0	0.75
+fifties_wall14a	detail/arstucco					5.0	5.0
+
+
+SIGN31				detail/arstucco				2.0	2.0
+SIGN29				detail/arstucco				2.0	2.0
+PICTURE9			detail/arstucco				2.0	2.0
+POSTER10				detail/arstucco				4.0	4.0
+POSTER9				detail/arstucco				4.0	4.0
++0~light2a		detail/crystallized1		3.0	3.0
++A~light2a		detail/crystallized1		3.0	3.0
+flatbed_bumper		detail/c2a3_gar3		2.0	1.0
+flatbed_top		detail/flatbed_top		1.0	1.0
++0~METALSTCH2				detail/arstucco				3.0	3.0
++A~METALSTCH2				detail/arstucco				3.0	3.0
+{jungleover				detail/argrass				4.0	4.0
+{junglecs4				detail/argrass				4.0	4.0
+
+TRAIN_UND2		detail/arstucco				4.0	4.0
+TRK2_BACK		detail/arstucco				4.0	4.0
+TRK2_FRONT		detail/arstucco				4.0	4.0
+TRK2_HOOD		detail/dt_metal1				4.0	4.0
+TRK2_ROOF		detail/dt_metal1				4.0	4.0
+TRK2_SIDE		detail/dt_metal1				4.0	4.0
+LAB1_GAD2B		detail/arstucco				5.0	5.0

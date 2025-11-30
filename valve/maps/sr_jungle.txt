@@ -1,0 +1,47 @@
+
+SilentRunner's Jungle
+
+=======================================================
+
+Map Name:            	sr_jungle.bsp
+Date:                 	Sept. 11, 2015
+Filesize:               5.51 mb
+Author:               	SilentRunner007
+Author email:          	Silentrunner007@gmail.com
+Homepage:             	http://www.angelfire.com/punk4/squidsville/
+Wads built in to map:   monkey01.wad & monkey02.wad from monkeystrike mod
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:          No
+Co-Op:                  No
+Deathmatch:             Yes
+
+Suggested Players:      4 +
+Custom Textures:        yes 
+Custom Sounds:          yes
+Custom Models:          yes
+New Sprites:		yes
+
+Map description:        A conversion of a cs 1.6 map I made to hldm. 
+                          
+========================================================
+CONSTRUCTION:
+
+base map:               de_sr_jungle
+prefabs:                none
+editor used:            Hammer 3.5.3
+utilities used:         Zoner's tools, Nem's batch compiler, ResGen, Wally, goldwave, and psp
+known bugs:             Found a bug? Email me please! Please include a 
+			description and/or screenshot.
+
+
+
+=======================================================
+
+
+Special thanks to DocRock for testing and helping me with the issues that I had with this.
+THANKS FCB!
+-NP
+

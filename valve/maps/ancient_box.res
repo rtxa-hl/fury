@@ -1,0 +1,12 @@
+sound/ancient_box/corridor_water.wav
+sound/ancient_box/hole_amb3.wav
+sound/ancient_box/rats1.wav
+sound/ancient_box/rats2.wav
+sound/ancient_box/rats3.wav
+sound/ancient_box/rats4.wav
+sound/ancient_box/swamp_bird1.wav
+sound/ancient_box/swamp_bird2.wav
+sound/ancient_box/swamp_bird3.wav
+sound/ancient_box/swamp_frogs_loop2.wav
+sound/ancient_box/water_gently_lapping.wav
+sprites/ancient_box/dust.spr

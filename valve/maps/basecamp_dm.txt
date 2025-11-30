@@ -1,0 +1,25 @@
+     Basecamp_dm--------------------------------By John Sapikowski
+
+This is a hldm map with attention to detail in most places where possible. The theme is Lambada desert (what else) sorry i never played through hl single player, so i cant write a storyline or anything:(
+Warning R_speeds may be higher about high in some areas, so please bare with higher than normal speeds in sparse outdoor areas (near the edges), i build this to out of personal emjoyment and this map is what I would like to see on yer server someday! I love Half-Life and never played Quake.
+Approx Build Time: 60 days @ 2+ hr per day. About 120 hours! or more..
+Editor's used: Worldcraft 3.3 and Valve Hammer 3.4 (mainly 3.3 cause hammer is buggy) and i also compiled on the rcs http://pinohuis.dhs.org/foddex/rcs/ (remote compile system) you are #1 Foddex!!
+
+                        Compile Stats:
+			Vis:1 hour 14 minutes 
+			Rad:2 hours
+			15627 faces
+			48878 base patches (of 65535 max)
+			612546 sq. feet
+			349 direct lights
+			About 2 hours for rad
+			Note (I had to run in rad -chop 90 and -texchop 90 to get this to compile without exceeding the max base patch limit)
+
+
+
+Just put the bsp in yer valve/maps directory. Please enjoy! My next map will likely be for counter strike.... I think the way I design my levels, I would be better suited for Counter Strike mapping. But hey I still like my map design for half-life.
+			P.S.(sorry there are no teleporters to get around, looks like yer gonna have to get around the old fashioned way!)
+			Please send any suggestions and or comments/questions to jonnys1@qwest.net	I need to know if this style of map actually works for Deathmatch, It worked well on playtesting with my friend (extra special thanks to Derek Burton a.k.a Darth Sailor), this map runs best on 500+ megahertz cause of somewhat high r_speeds in few places outdoors. 
+			I appologize for high r_speeds outside near edges, I could have possibly came up with better design to fix it, so here we have it, hide behind somethin' and frag away Half-Life fans!
+                        
+			

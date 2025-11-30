@@ -1,0 +1,27 @@
+Strafe_rs
+_________________________________
+Map by rSnake, April 2010
+Bonus jump by N.O.L.F.
+
+
+Well, a simple, not too hard and ofcourse my first strafe map. Consist 
+of 10 jumps of rather increasing difficulty (except 9). Good to train 
+your strafe abilities, also speedrun challenge for intermediate and 
+advanced strafers. Have fun playing it!
+
+I'd like to thanks N.O.L.F. for his awesome strafe maps that
+inspired me to create this one.
+
+_________________________________
+
+Many thanks to:
+N.O.L.F., Tommi, Mike, Phospholipid, AbSiNtHbAd
+
+
+Visit my TFC maps rescource:
+http://snakesmaps.xt.pl
+
+
+
+
+

@@ -1,0 +1,17 @@
+========================================
+toon_climb              by Pizza Supreme
+========================================
+
+A toon styled climb map that has medium difficulty. Intended
+for climbers who are looking for a modest challenge. Shortcuts
+included in the map if you have the skills to complete them,
+perfect for speedrunners.
+
+Special thanks to the SkillzWorld climb server for keeping tfc
+fresh with a server full of climb maps!
+
+Greets: badgamer, D12
+
+Released: 15/03/2013
+
+========================================

@@ -1,0 +1,80 @@
+
+=======================================================
+Monkey-Strike Christmas Rats "lite" by SilentRunner007
+=======================================================
+Map Name:      	ms_xmas_rats_lite.bsp
+Filesize:       4 MB
+Author:         SilentRunner007
+Author email:  	silentrunner007@gmail.com
+Homepage:      	www.squidsville.com
+Date built:	Jan. 4 2024
+
+wadincluded in map:  monkey01.wad monkey02.wad moon-ms.wad circusrulfen.wad
+
+Link to video:
+https://youtu.be/aE5f7CnIKVg
+
+Link to MOD:
+https://www.moddb.com/mods/monkeystrike
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:    	No
+Co-Op:                	No
+Deathmatch:      	Yes
+
+Suggested Players:  	10+
+New Textures:   	Sorta.. All from Monkey-Strike MOD. Mod is been around a while(Around 2003).
+New Sounds:      	Yes  
+New Skies:		No
+
+Map description:  	A Christmas rats map made using MS mod textures. 
+			This version has no flashing lights on the tree and no background music.
+
+=======================================================
+CONSTRUCTION:
+
+base map:                	None
+prefabs:                   	None
+editor used:             	Worldcraft 3.5 By YoDen
+utilities used:          	VHLT compile tools, PSP, wally, Audacity and Goldwave 			
+known bugs:            	        Textures scaled way up. Using the flashlight lights up the walls a lot.
+
+
+=======================================================
+INSTALLATION:
+
+Unzip the file and place the contents in their corresponding folders in you HL installation
+=======================================================
+
+=======================================================
+PLAYLEVEL NOTES:
+I made this with the thought of strictly only using thetextures in the Monkey-Strike wads. Some of 
+the textures look a bit wonky. 
+
+=======================================================
+SPECIAL THANKS:
+Monkey-Strike MOD Team
+
+MORE THANKS:
+DocRock: I used one of his maps text files as base for this one.... plus the years of fraggin fun(FCB).
+
+
+=======================================================
+COPYRIGHT STUFF
+
+ms_xmas_rats_lite.bsp  copyright 2023 by SilentRunner007
+
+Authors MAY use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.  If you do, I want a copy of the CD too please.  Email me for my address.
+
+I appreciate any feedback whatsoever on any of my maps.  I would appreciate it if you'd drop me a line and tell me what ya thought of my work.  Please do, even if ya hate the map.  Email me at Silentrunner007@gmail.com.

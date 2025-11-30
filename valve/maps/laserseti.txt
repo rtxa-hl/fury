@@ -1,0 +1,99 @@
+
+-------------------------------------------------------------------------
+LaserSETI - Episode 1: Alien Contact Made!
+Imagine finally locating a planet with intelligent life by using new laser 
+technology only to find out that the aliens don't want to be disturbed!  
+In fact, now that you have given your location to them, they will stop at 
+nothing to destroy you!  Sound like a bad dream?  
+Well, play LaserSETI and wake up!
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+This map was created exclusively for the Planet Halflife 
+(www.planethalflife.com) DeathMatch Mapping contest ending
+01/25/2001.
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+* Play Information *
+Title 			: LaserSETI
+Filename		: laserseti.bsp
+Author			: [DRS]DoomDog aka Marty Rapp - Anchorage, ALASKA
+Other lvls by author	: reapers_revenge, morality, vx800, drs_unity9, freewill, op4_freewill, galileo
+Email address 		: mrapp@gci.net
+Home page		: http://www.mrapps.com http://24.237.6.87/maps.htm
+Description		: Deathmatch map for Half-Life.  I think it will
+			: easily handle 6 or more players.
+Size			: medium/small
+Additional Credits to   : [DRS]Reaper, [DRS]Orpheus, and other [DRS] Clan Members 
+				who participated in test run
+Single Player           : no
+Cooperative Player      : no
+Deathmatch Player       : yes
+CTF2			: no
+Difficulty Settings     : no
+New Textures            : no
+CD Track                : no
+
+-------------------------------------------------------------------------
+
+* Installation *
+
+Put the file laserseti.bsp in your half-life/valve/maps folder. 
+
+------------------------------------------------------------------------
+
+* Tips & Notes *
+
+If you want the gluon you must find the secret room by the snarks.
+If you want the tau gun, you have to SEARCH FOR ALIENS!
+
+Weapon/Ammo Count:
+3 ammo_357
+7 ammo_9mmAR
+2 ammo_9mmClip
+4 ARGrenades(x2)
+3 ammo_Buckshot
+3 ammo_Crossbow
+3 ammo_Gaussclip
+2 ammo_RPGClip
+2 weapon_357
+3 weapon_9mmAR
+1 weapon_Crossbow
+1 weapon_Egon
+1 weapon_Gauss
+3 weapon_Handgrenades
+0 weapon_Hornetgun
+1 weapon_RPG
+3 weapon_Shotguns
+1 weapon_Snarks
+4 weapon_Tripmines
+3 weapon_Satchel
+
+There are 6 info_player_deathmatch entities, 4 item_battery entities, 
+5 item_healthkit entities, 2 battery rechargers, 2 health rechargers,
+and 1 item_long_jump entity.
+
+------------------------------------------------------------------------
+
+* Construction *
+
+Base			: new Level from scratch
+Editor(s) used          : Worldcraft 3.3
+Editing time		: 10 days
+Compile Machine		: Pentium II 450MHz 128k Ram
+Compile time		: just over an hour
+
+-------------------------------------------------------------------------
+
+* Additional Information *
+
+Special thanks to [DRS]Reaper and [DRS]Orpheus for their review, 
+suggestions and encouragement. 
+
+
+Hope at least one person who plays this map likes it, if so, then
+it will be worth it!
+
+
+[DRS]DoomDog 01/23/2001
+Marty Rapp
+mrapp@gci.net

@@ -1,0 +1,46 @@
+map
+____________
+closer
+
+half-life deathmatch
+submission for the PlanetHalf-Life mapping contest
+
+23 | 01 | 2001
+
+
+
+
+author
+____________
+SYmPATRIC
+Jolyon Tait Sykes
+
+jolyon@sumosa.com.au
+
+57 Oberon St
+Randwick
+Sydney
+NSW
+Australia
+2031
+
+
+
+
+file info
+____________
+
+build program: 		Worldcraft 3.3
+
+compile tools:	 	Zoner's Half-Life Tools 2.4.2
+
+
+files included in zip:	closer.bsp
+			closer.txt (this file)
+
+Standard half-life files, sounds, textures used only.
+Half-life wad files - halflife.wad, liquids.wad, decals.wad used
+with the inclusion of the phl.wad file for the planethalf-life logo.
+
+
+

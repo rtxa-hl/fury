@@ -1,0 +1,16 @@
+gfx/env/desert01bk.tga
+gfx/env/desert01dn.tga
+gfx/env/desert01ft.tga
+gfx/env/desert01lf.tga
+gfx/env/desert01rt.tga
+gfx/env/desert01up.tga
+models/kzfu/3dm_dojo_swords.mdl
+models/kzfu/boat.mdl
+models/kzfu/fish01.mdl
+models/kzfu/fish02.mdl
+models/kzfu/fu_flag.mdl
+models/kzfu/katana_stand.mdl
+models/kzfu/pi_tree3_autumn.mdl
+models/kzfu/plant_pot.mdl
+sound/cath_birds.wav
+sound/fu_flag.wav
