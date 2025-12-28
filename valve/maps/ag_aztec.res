@@ -3,9 +3,16 @@
 // with serveral improvements and additions by Zero3Cool.
 // For more info go to http://resgen.hltools.com
 
-// .res entries (20):
+// .res entries (28):
+bigbro.wad
+chateau.wad
+cs_bdog.wad
+cs_havana.wad
+cs_office.wad
 cstrike.wad
+de_airstrip.wad
 de_aztec.wad
+de_piranesi.wad
 decals.wad
 gfx/env/doom1bk.tga
 gfx/env/doom1dn.tga
@@ -23,4 +30,5 @@ sprites/glow02.spr
 sprites/ikgrass1.spr
 sprites/ikgrass2.spr
 sprites/ikgrass3.spr
+tfc2.wad
 zeditor.wad
